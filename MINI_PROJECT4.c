@@ -2,7 +2,7 @@
  * MINI_PROJECT4.c
  *
  *  Created on: Oct 13, 2022
- *      Author: Dell
+ *      Author: Mo'men Ahmed
  */
 #include "lcd.h"
 #include "ultrasonic.h"
